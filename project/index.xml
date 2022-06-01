@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h1 id=&#34;stages-of-project-implementation&#34;&gt;Stages of project implementation.&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Placement on Github pages of a blank for a personal site.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Install the required software.&lt;/li&gt;
+&lt;li&gt;Download website theme template.&lt;/li&gt;
+&lt;li&gt;Host it on a git host.&lt;/li&gt;
+&lt;li&gt;Set parameter for &lt;em&gt;URLs&lt;/em&gt; site.&lt;/li&gt;
+&lt;li&gt;Place the site template on &lt;em&gt;Github pages&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2.  Add information about yourself to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of added data.
+&lt;ul&gt;
+&lt;li&gt;Post a photo of the site owner.&lt;/li&gt;
+&lt;li&gt;Post a short description of the site owner (Biography).&lt;/li&gt;
+&lt;li&gt;Add information about interests (Interests).&lt;/li&gt;
+&lt;li&gt;Add information from education (Education).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Version control. Git.&lt;/li&gt;
+&lt;li&gt;Continuous Integration and Continuous Deployment (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3.  Add achievements to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of achievements.
+&lt;ul&gt;
+&lt;li&gt;Add information about skills (Skills).&lt;/li&gt;
+&lt;li&gt;Add information about experience (Experience).&lt;/li&gt;
+&lt;li&gt;Add information about achievements (Accomplishments).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Lightweight markup languages.&lt;/li&gt;
+&lt;li&gt;Markup languages. LaTeX.&lt;/li&gt;
+&lt;li&gt;Markdown language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4.  Add links to scientific and bibliometric resources to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Register on the relevant resources and place links to them on the site:
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Report formatting.&lt;/li&gt;
+&lt;li&gt;Creation of presentations.&lt;/li&gt;
+&lt;li&gt;Bibliography work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;5.  Add all other elements from the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make notes for personal projects.&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice.
+&lt;ul&gt;
+&lt;li&gt;Scientific programming languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: In progress&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;6.  Hosting a bilingual site on Github.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make support for English and Russian languages.&lt;/li&gt;
+&lt;li&gt;Place site elements in both languages.&lt;/li&gt;
+&lt;li&gt;Post content in both languages.&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice (in two languages).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: In progress&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

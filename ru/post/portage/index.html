@@ -1,0 +1,1416 @@
+<!DOCTYPE html><html lang="ru-ru" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Абдулфазов Мансур" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Portage — это система управления пакетами, изначально созданная и используемая Gentoo Linux, а также Chrome OS, Calculate, Sabayon и Funtoo Linux среди прочих. Portage основан на концепции коллекций портов. Gentoo иногда называют метадистрибутивом из-за чрезвычайной гибкости Portage, которая делает его независимым от операционной системы. Проект Gentoo/Alt связан с использованием Portage для управления другими операционными системами, такими как BSD, macOS и Solaris. Наиболее примечательной из этих реализаций является проект Gentoo/FreeBSD." />
+
+  
+    <link rel="alternate" hreflang="en" href="https://example.com/post/portage/" />
+  
+  <link rel="alternate" hreflang="ru-ru" href="https://example.com/ru/post/portage/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1052fab8b7700a3dc49ee23683097d66.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/ru/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/ru/post/portage/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Абдулфазов Мансур А.о." />
+  <meta property="og:url" content="https://example.com/ru/post/portage/" />
+  <meta property="og:title" content="Система оправления пакетами Portage | Абдулфазов Мансур А.о." />
+  <meta property="og:description" content="Portage — это система управления пакетами, изначально созданная и используемая Gentoo Linux, а также Chrome OS, Calculate, Sabayon и Funtoo Linux среди прочих. Portage основан на концепции коллекций портов. Gentoo иногда называют метадистрибутивом из-за чрезвычайной гибкости Portage, которая делает его независимым от операционной системы. Проект Gentoo/Alt связан с использованием Portage для управления другими операционными системами, такими как BSD, macOS и Solaris. Наиболее примечательной из этих реализаций является проект Gentoo/FreeBSD." /><meta property="og:image" content="https://example.com/ru/post/portage/featured.png" />
+    <meta property="twitter:image" content="https://example.com/ru/post/portage/featured.png" /><meta property="og:locale" content="ru-ru" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2020-12-13T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2020-12-13T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/ru/post/portage/"
+  },
+  "headline": "Система оправления пакетами Portage",
+  
+  "image": [
+    "https://example.com/ru/post/portage/featured.png"
+  ],
+  
+  "datePublished": "2020-12-13T00:00:00Z",
+  "dateModified": "2020-12-13T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Абдулфазов Мансур"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Абдулфазов Мансур А.о.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Portage — это система управления пакетами, изначально созданная и используемая Gentoo Linux, а также Chrome OS, Calculate, Sabayon и Funtoo Linux среди прочих. Portage основан на концепции коллекций портов. Gentoo иногда называют метадистрибутивом из-за чрезвычайной гибкости Portage, которая делает его независимым от операционной системы. Проект Gentoo/Alt связан с использованием Portage для управления другими операционными системами, такими как BSD, macOS и Solaris. Наиболее примечательной из этих реализаций является проект Gentoo/FreeBSD."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Система оправления пакетами Portage | Абдулфазов Мансур А.о.</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4e160eb59b89190db4480c07ffc3966a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Поиск</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Поиск ..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Поиск ...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/ru/">Абдулфазов Мансур А.о.</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Переключить навигацию">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/ru/">Абдулфазов Мансур А.о.</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#about"><span>Обо мне</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#posts"><span>Посты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#projects"><span>Проекты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#featured"><span>Публикации</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#contact"><span>Контакты</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Поиск"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>Русский</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/post/portage/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Система оправления пакетами Portage</h1>
+
+  
+  <p class="page-subtitle">Portage — это система управления пакетами.</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Абдулфазов Мансур</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    дек. 13, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 мин. для прочтения
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/ru/category/demo/">Demo</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 861px; max-height: 287px;">
+  <div style="position: relative">
+    <img src="/ru/post/portage/featured_hu4401a51591237a36d0e0b480dc91983d_15887_1200x2500_fit_q75_h2_lanczos_3.webp" width="861" height="287" alt="" class="featured-image">
+    <span class="article-header-caption"><a href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Feternalhost.net%2Fblog%2Fsistemnoe-administrirovanie%2Fpaketnye-menedzhery-linux&amp;psig=AOvVaw0TCGE1EtjcR_oaR8fyprLw&amp;ust=1654121956743000&amp;source=images&amp;cd=vfe&amp;ved=0CAkQjRxqFwoTCMDAx8_iivgCFQAAAAAdAAAAABAD" target="_blank" rel="noopener"><strong>Logo</strong></a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="обзор">Обзор</h2>
+<hr>
+<p><strong>Доступ к Portage</strong></p>
+<p>Графический интерфейс Porthole.
+Portage похож на управление пакетами в стиле BSD, известное как порты, и изначально был разработан с учетом портов FreeBSD. Portage написан на языке программирования Python и является основной утилитой, определяющей Gentoo. Хотя сама система известна как Portage, она состоит из двух основных частей: системы ebuild и emerge. Система ebuild берет на себя фактическую работу по сборке и установке пакетов, тогда как emerge предоставляет интерфейс для ebuild: управление репозиторием ebuild, разрешение зависимостей и подобные проблемы. (Поэтому эти два параметра имеют примерно такое же отношение, как rpm к yum или dpkg к APT.)</p>
+<p>Графический интерфейс Portage на основе GTK+ доступен для работы с Portage. Существует также графический интерфейс Himerge, что означает «интерфейс Haskell для eMerge».</p>
+<p><strong>Предоставленные функции</strong></p>
+<p>Portage характеризуется своей основной функцией: компиляцией из исходного кода пакетов, которые пользователь хочет установить. При этом он позволяет настраивать параметры компилятора и целевого приложения в соответствии со спецификациями системы и собственными пожеланиями пользователя. Функции, связанные с управлением системой, включают в себя: возможность параллельной установки версий пакетов, отслеживание зависимостей между пакетами, управление базой данных установленных пакетов, предоставление локального репозитория ebuild-файлов и синхронизацию локального дерева Portage с удаленными репозиториями. Функциональные возможности, связанные с установкой отдельных пакетов, включают: указание параметров компиляции для целевой машины и выбор компонентов пакета.</p>
+<p>Portage различает три уровня стабильности в ebuild-файлах: стабильный (например, программное обеспечение работает, как задумано, без известных проблем с безопасностью на момент выпуска), замаскированный по ключевому слову (в основном для пакетов, которые не были достаточно протестированы на целевой архитектуре системы, чтобы их можно было рассматривать). стабильный) и жестко замаскированные (сломанные или очень небезопасные) пакеты.</p>
+<h2 id="функции">Функции</h2>
+<hr>
+<p><strong>Появляться</strong></p>
+<p>Отключение файлового менеджера SpaceFM
+Инструмент командной строки emerge является сердцем Portage. Команда настраивается с помощью множества параметров и модификаторов. Инструмент emerge — самая важная утилита для доступа к функциям Portage из командной строки.</p>
+<p>Программа вычисляет и управляет зависимостями, выполняет ебилды и поддерживает локальное дерево портежей и базу данных установленных пакетов. Параметры компиляции, используемые ebuild-файлами, можно изменить с помощью переменной среды CFLAGS в зависимости от характеристик отдельного компьютера и желания пользователя оптимизировать его. Утилита emerge запускает ебилды в песочнице. Таким образом, система защищена от программного обеспечения, запускаемого ebuild-файлом, а результирующие двоичные файлы объединяются только после успешной сборки и установки в песочнице.</p>
+<p>То, что emerge устанавливает в качестве зависимостей, зависит от настроек USE-флагов. Они решают, какие дополнительные функции будут включены при установке или обновлении приложения. Команду emerge также можно использовать для загрузки и установки предварительно скомпилированных двоичных файлов.</p>
+<p><strong>USE-флаги</strong></p>
+<p>Portage во время обновления системы
+Система Portage предлагает использование «USE-флагов», которые позволяют пользователям указывать, какие функции программного обеспечения они хотели бы включить (или исключить) при создании пакетов. Например, есть флаг USE для включения поддержки DVD, если она доступна, в пакеты, скомпилированные с включенным флагом. USE-флаги влияют на то, какие зависимости требуются, как правило, на то, какие дополнительные функции будут встроены в данную программу при ее компиляции. Например, в пакетах, использующих скрипт configure, функция флага USE будет преобразована в ./configure &ndash;with-feature.</p>
+<p>Спецификация USE-флагов — это обычный способ настройки программ в Gentoo. USE-флаги можно устанавливать вручную или с помощью удобных инструментов, таких как ufed (редактор USE-флагов), в котором перечислены флаги вместе с их описанием. Список доступных USE-флагов доступен на веб-сайте Gentoo в списке USE-флагов.</p>
+<p><strong>Появляться</strong></p>
+<p>Отключение файлового менеджера SpaceFM
+Инструмент командной строки emerge является сердцем Portage. Команда настраивается с помощью множества параметров и модификаторов. Инструмент emerge — самая важная утилита для доступа к функциям Portage из командной строки.</p>
+<p>Программа вычисляет и управляет зависимостями, выполняет ебилды и поддерживает локальное дерево портежей и базу данных установленных пакетов. Параметры компиляции, используемые ebuild-файлами, можно изменить с помощью переменной среды CFLAGS в зависимости от характеристик отдельного компьютера и желания пользователя оптимизировать его. Утилита emerge запускает ебилды в песочнице. Таким образом, система защищена от программного обеспечения, запускаемого ebuild-файлом, а результирующие двоичные файлы объединяются только после успешной сборки и установки в песочнице.</p>
+<p>То, что emerge устанавливает в качестве зависимостей, зависит от настроек USE-флагов. Они решают, какие дополнительные функции будут включены при установке или обновлении приложения. Команду emerge также можно использовать для загрузки и установки предварительно скомпилированных двоичных файлов.</p>
+<p><strong>USE-флаги</strong></p>
+<p>Portage во время обновления системы
+Система Portage предлагает использование «USE-флагов», которые позволяют пользователям указывать, какие функции программного обеспечения они хотели бы включить (или исключить) при создании пакетов. Например, есть флаг USE для включения поддержки DVD, если она доступна, в пакеты, скомпилированные с включенным флагом. USE-флаги влияют на то, какие зависимости требуются, как правило, на то, какие дополнительные функции будут встроены в данную программу при ее компиляции. Например, в пакетах, использующих скрипт configure, функция флага USE будет преобразована в ./configure &ndash;with-feature.</p>
+<p>Спецификация USE-флагов — это обычный способ настройки программ в Gentoo. USE-флаги можно устанавливать вручную или с помощью удобных инструментов, таких как ufed (редактор USE-флагов), в котором перечислены флаги вместе с их описанием. Список доступных USE-флагов доступен на веб-сайте Gentoo в списке USE-флагов.</p>
+<p><strong>сборка</strong>
+По умолчанию Gentoo не использует бинарные пакеты, как это делают другие системы управления пакетами (например, pacman или apt), вместо этого используя формат, известный как ebuild. В то время как двоичные файлы RPM представляют собой предварительно скомпилированные двоичные файлы, ebuild-файлы представляют собой сценарии оболочки с переменными и функциями, которые содержат описание программного обеспечения и инструкции о том, как его получить, настроить, скомпилировать и установить, более близкие (но более мощные, чем) файлы . spec-файлы, распространяемые в пакетах SRPM.[8] Доступно более 19 000 ebuild-файлов, большинство из которых распространяется зеркалами Gentoo. Новые и обновленные ebuild-файлы можно получить, синхронизировав локальный репозиторий ebuild-файлов с зеркалами. Это делается с помощью команды emerge &ndash;sync. Исторически сложилось так, что Gentoo предоставляет предварительно скомпилированные двоичные пакеты для многих распространенных программ, особенно для тех, которые требуют длительной компиляции, таких как Mozilla Firefox и OpenOffice.org. Они по-прежнему устанавливаются с помощью emerge, просто добавляя «-bin» к имени пакета, чтобы вместо этого установить двоичную версию.</p>
+<p><strong>Двоичные пакеты</strong></p>
+<p>Gentoo имеет бинарный формат упаковки, который представляет собой файл .tbz2 (tar со сжатием bzip2) с дополнительными метаданными. Эта функция позволяет собирать бинарные пакеты на одной системе (используя buildpkg или quickpkg Portage) с последующей быстрой установкой на других, идентичных системах (с помощью getbinpkg Portage или emerge -K). Дополнительные сведения см. в разделе Возможности Portage в Руководстве по Gentoo Linux.</p>
+<p><strong>Маскировка</strong></p>
+<p>Маскировка — это то, как Gentoo определяет, какие пакеты подходят для системы. Ebuilds, предназначенные для различных архитектур или экспериментального программного обеспечения, обычно маскируются таким образом, что стабильная система не может установить их без вмешательства пользователя.</p>
+<p>Пакеты, которые обычно просто требуют некоторого тестирования, но часто работают нормально, называются замаскированными ключевыми словами (т. е. они доступны для систем с записью ACCEPT_KEYWORDS в make.conf, начинающейся с символа ~, например, ~x86, ~amd64, ~ppc). Стандартный способ разоблачить отдельный пакет, замаскированный ключевым словом, — добавить файл с полным именем пакета и ключевым словом в /etc/portage/package.accept_keywords/. Пользователи также могут создавать здесь подкаталоги, что позволяет организовать их по своему усмотрению. Например, если замаскированный пакет имеет несколько замаскированных зависимостей, пользователь может создать каталог с именем исходного замаскированного пакета и поместить все файлы масок для пакета и его зависимостей в этот каталог. Эта схема заменяет старую схему использования /etc/portage/package.accept_keywords в виде списка текстовых файлов.</p>
+<p>Пакеты с известными проблемами или не считающиеся достаточно зрелыми, чтобы быть кандидатами на стабильную версию, жестко маскируются одним из различных файлов package.mask в /usr/portage/profiles, и такие записи обычно сопровождаются комментариями разработчиков, объясняющими причину маска.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/ru/tag/academic/">Academic</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/ru/post/portage/&amp;text=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/ru/post/portage/&amp;t=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage&amp;body=https://example.com/ru/post/portage/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/ru/post/portage/&amp;title=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage%20https://example.com/ru/post/portage/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/ru/post/portage/&amp;title=%d0%a1%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0%20%d0%be%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f%20%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d0%b0%d0%bc%d0%b8%20Portage" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/ru/authors/admin/avatar_hue245a01a6b414d2dbe92bcd2dbb360fc_10569961_270x270_fill_q75_lanczos_center.JPG" alt="Абдулфазов Мансур"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Абдулфазов Мансур</a></h5>
+      <h6 class="card-subtitle">Студент</h6>
+      <p class="card-text">Мои исследовательские интересы включают информатику, разработку Python и операционные системы.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/ru/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://elibrary.ru/defaultx.asp?" target="_blank" rel="noopener">
+        <i class="fas fa-book"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=ru&amp;authuser=1&amp;user=1bCVomwAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-1544-4742" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.mendeley.com/" target="_blank" rel="noopener">
+        <i class="ai ai-mendeley"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Mansur-Abdulfazov" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://independent.academia.edu/MansurAbdulfaozov" target="_blank" rel="noopener">
+        <i class="ai ai-academia"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/user" target="_blank" rel="noopener">
+        <i class="ai ai-arxiv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/mabdulfazov" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/ru/js/wowchemy.min.2dc4ec27206b78f9d05ad86312c44710.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Процитировать</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Копия
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Скачать
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>

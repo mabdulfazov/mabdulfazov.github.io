@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 23.05 - 29.05</title>
+      <link>https://example.com/post/week232905/</link>
+      <pubDate>Wed, 01 Jun 2022 00:48:20 +0300</pubDate>
+      <guid>https://example.com/post/week232905/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned to work with hierarchies of classes of geometric objects in c++&lt;/li&gt;
+&lt;li&gt;Started developing a simple game on Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;I think last week was quite interesting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 16.05 - 22.05</title>
+      <link>https://example.com/post/week162205/</link>
+      <pubDate>Fri, 27 May 2022 20:03:08 +0300</pubDate>
+      <guid>https://example.com/post/week162205/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned to work with vectors and matrices in c++&lt;/li&gt;
+&lt;li&gt;Started a new python project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;I think last week was quite productive.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h1 id=&#34;stages-of-project-implementation&#34;&gt;Stages of project implementation.&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1. Placement on Github pages of a blank for a personal site.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Install the required software.&lt;/li&gt;
+&lt;li&gt;Download website theme template.&lt;/li&gt;
+&lt;li&gt;Host it on a git host.&lt;/li&gt;
+&lt;li&gt;Set parameter for &lt;em&gt;URLs&lt;/em&gt; site.&lt;/li&gt;
+&lt;li&gt;Place the site template on &lt;em&gt;Github pages&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2.  Add information about yourself to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of added data.
+&lt;ul&gt;
+&lt;li&gt;Post a photo of the site owner.&lt;/li&gt;
+&lt;li&gt;Post a short description of the site owner (Biography).&lt;/li&gt;
+&lt;li&gt;Add information about interests (Interests).&lt;/li&gt;
+&lt;li&gt;Add information from education (Education).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Version control. Git.&lt;/li&gt;
+&lt;li&gt;Continuous Integration and Continuous Deployment (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3.  Add achievements to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of achievements.
+&lt;ul&gt;
+&lt;li&gt;Add information about skills (Skills).&lt;/li&gt;
+&lt;li&gt;Add information about experience (Experience).&lt;/li&gt;
+&lt;li&gt;Add information about achievements (Accomplishments).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Lightweight markup languages.&lt;/li&gt;
+&lt;li&gt;Markup languages. LaTeX.&lt;/li&gt;
+&lt;li&gt;Markdown language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4.  Add links to scientific and bibliometric resources to the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Register on the relevant resources and place links to them on the site:
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:
+&lt;ul&gt;
+&lt;li&gt;Report formatting.&lt;/li&gt;
+&lt;li&gt;Creation of presentations.&lt;/li&gt;
+&lt;li&gt;Bibliography work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;5.  Add all other elements from the site.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make notes for personal projects.&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice.
+&lt;ul&gt;
+&lt;li&gt;Scientific programming languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: In progress&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;6.  Hosting a bilingual site on Github.&lt;/strong&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make support for English and Russian languages.&lt;/li&gt;
+&lt;li&gt;Place site elements in both languages.&lt;/li&gt;
+&lt;li&gt;Post content in both languages.&lt;/li&gt;
+&lt;li&gt;Make a post last week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice (in two languages).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: In progress&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming language</title>
+      <link>https://example.com/post/clanguage/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/clanguage/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.&lt;/p&gt;
+&lt;p&gt;Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. Since the early 1800s, programs have been used to direct the behavior of machines such as Jacquard looms, music boxes and player pianos. The programs for these machines (such as a player piano&amp;rsquo;s scrolls) did not produce different behavior in response to different inputs or conditions.&lt;/p&gt;
+&lt;p&gt;Thousands of different programming languages have been created, and more are being created every year. Many programming languages are written in an imperative form (i.e., as a sequence of operations to perform) while other languages use the declarative form (i.e. the desired result is specified, not how to achieve it).&lt;/p&gt;
+&lt;p&gt;The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language. Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common.&lt;/p&gt;
+&lt;p&gt;Programming language theory is a subfield of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages.&lt;/p&gt;
+&lt;h2 id=&#34;definitions&#34;&gt;Definitions&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;A programming language is a notation for writing programs, which are specifications of a computation or algorithm. Some authors restrict the term &amp;ldquo;programming language&amp;rdquo; to those languages that can express all possible algorithms. Traits often considered important for what constitutes a programming language include:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function and target&lt;/strong&gt;
+A computer programming language is a language used to write computer programs, which involves a computer performing some kind of computation or algorithm and possibly control external devices such as printers, disk drives, robots, and so on. For example, PostScript programs are frequently created by another program to control a computer printer or display. More generally, a programming language may describe computation on some, possibly abstract, machine. It is generally accepted that a complete specification for a programming language includes a description, possibly idealized, of a machine or processor for that language. In most practical contexts, a programming language involves a computer; consequently, programming languages are usually defined and studied this way. Programming languages differ from natural languages in that natural languages are only used for interaction between people, while programming languages also allow humans to communicate instructions to machines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstractions&lt;/strong&gt;
+Programming languages usually contain abstractions for defining and manipulating data structures or controlling the flow of execution. The practical necessity that a programming language support adequate abstractions is expressed by the abstraction principle. This principle is sometimes formulated as a recommendation to the programmer to make proper use of such abstractions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Expressive power&lt;/strong&gt;
+The theory of computation classifies languages by the computations they are capable of expressing. All Turing-complete languages can implement the same set of algorithms. ANSI/ISO SQL-92 and Charity are examples of languages that are not Turing complete, yet are often called programming languages.&lt;/p&gt;
+&lt;p&gt;Markup languages like XML, HTML, or troff, which define structured data, are not usually considered programming languages. Programming languages may, however, share the syntax with markup languages if a computational semantics is defined. XSLT, for example, is a Turing complete language entirely using XML syntax. Moreover, LaTeX, which is mostly used for structuring documents, also contains a Turing complete subset.&lt;/p&gt;
+&lt;p&gt;The term computer language is sometimes used interchangeably with programming language. However, the usage of both terms varies among authors, including the exact scope of each. One usage describes programming languages as a subset of computer languages. Similarly, languages used in computing that have a different goal than expressing computer programs are generically designated computer languages. For instance, markup languages are sometimes referred to as computer languages to emphasize that they are not meant to be used for programming.&lt;/p&gt;
+&lt;p&gt;Another usage regards programming languages as theoretical constructs for programming abstract machines, and computer languages as the subset thereof that runs on physical computers, which have finite hardware resources. John C. Reynolds emphasizes that formal specification languages are just as much programming languages as are the languages intended for execution. He also argues that textual and even graphical input formats that affect the behavior of a computer are programming languages, despite the fact they are commonly not Turing-complete, and remarks that ignorance of programming language concepts is the reason for many flaws in input formats.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Early developments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Very early computers, such as Colossus, were programmed without the help of a stored program, by modifying their circuitry or setting banks of physical controls.&lt;/p&gt;
+&lt;p&gt;Slightly later, programs could be written in machine language, where the programmer writes each instruction in a numeric form the hardware can execute directly. For example, the instruction to add the value in two memory locations might consist of 3 numbers: an &amp;ldquo;opcode&amp;rdquo; that selects the &amp;ldquo;add&amp;rdquo; operation, and two memory locations. The programs, in decimal or binary form, were read in from punched cards, paper tape, magnetic tape or toggled in on switches on the front panel of the computer. Machine languages were later termed first-generation programming languages (1GL).&lt;/p&gt;
+&lt;p&gt;The next step was the development of the so-called second-generation programming languages (2GL) or assembly languages, which were still closely tied to the instruction set architecture of the specific computer. These served to make the program much more human-readable and relieved the programmer of tedious and error-prone address calculations.&lt;/p&gt;
+&lt;p&gt;The first high-level programming languages, or third-generation programming languages (3GL), were written in the 1950s. An early high-level programming language to be designed for a computer was Plankalkül, developed for the German Z3 by Konrad Zuse between 1943 and 1945. However, it was not implemented until 1998 and 2000.&lt;/p&gt;
+&lt;p&gt;John Mauchly&amp;rsquo;s Short Code, proposed in 1949, was one of the first high-level languages ever developed for an electronic computer. Unlike machine code, Short Code statements represented mathematical expressions in understandable form. However, the program had to be translated into machine code every time it ran, making the process much slower than running the equivalent machine code.&lt;/p&gt;
+&lt;p&gt;At the University of Manchester, Alick Glennie developed Autocode in the early 1950s. As a programming language, it used a compiler to automatically convert the language into machine code. The first code and compiler was developed in 1952 for the Mark 1 computer at the University of Manchester and is considered to be the first compiled high-level programming language.&lt;/p&gt;
+&lt;p&gt;The second autocode was developed for the Mark 1 by R. A. Brooker in 1954 and was called the &amp;ldquo;Mark 1 Autocode&amp;rdquo;. Brooker also developed an autocode for the Ferranti Mercury in the 1950s in conjunction with the University of Manchester. The version for the EDSAC 2 was devised by D. F. Hartley of University of Cambridge Mathematical Laboratory in 1961. Known as EDSAC 2 Autocode, it was a straight development from Mercury Autocode adapted for local circumstances and was noted for its object code optimisation and source-language diagnostics which were advanced for the time. A contemporary but separate thread of development, Atlas Autocode was developed for the University of Manchester Atlas 1 machine.&lt;/p&gt;
+&lt;p&gt;In 1954, FORTRAN was invented at IBM by John Backus. It was the first widely used high-level general purpose programming language to have a functional implementation, as opposed to just a design on paper. It is still a popular language for high-performance computing and is used for programs that benchmark and rank the world&amp;rsquo;s fastest supercomputers.&lt;/p&gt;
+&lt;p&gt;Another early programming language was devised by Grace Hopper in the US, called FLOW-MATIC. It was developed for the UNIVAC I at Remington Rand during the period from 1955 until 1959. Hopper found that business data processing customers were uncomfortable with mathematical notation, and in early 1955, she and her team wrote a specification for an English programming language and implemented a prototype. The FLOW-MATIC compiler became publicly available in early 1958 and was substantially complete in 1959. FLOW-MATIC was a major influence in the design of COBOL, since only it and its direct descendant AIMACO were in actual use at the time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Refinement&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The increased use of high-level languages introduced a requirement for low-level programming languages or system programming languages. These languages, to varying degrees, provide facilities between assembly languages and high-level languages. They can be used to perform tasks that require direct access to hardware facilities but still provide higher-level control structures and error-checking.&lt;/p&gt;
+&lt;p&gt;The period from the 1960s to the late 1970s brought the development of the major language paradigms now in use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;APL introduced array programming and influenced functional programming.&lt;/li&gt;
+&lt;li&gt;ALGOL refined both structured procedural programming and the discipline of language specification; the &amp;ldquo;Revised Report on the Algorithmic Language ALGOL 60&amp;rdquo; became a model for how later language specifications were written.&lt;/li&gt;
+&lt;li&gt;Lisp, implemented in 1958, was the first dynamically typed functional programming language.&lt;/li&gt;
+&lt;li&gt;In the 1960s, Simula was the first language designed to support object-oriented programming; in the mid-1970s, Smalltalk followed with the first &amp;ldquo;purely&amp;rdquo; object-oriented language.&lt;/li&gt;
+&lt;li&gt;C was developed between 1969 and 1973 as a system programming language for the Unix operating system and remains popular.&lt;/li&gt;
+&lt;li&gt;Prolog, designed in 1972, was the first logic programming language.&lt;/li&gt;
+&lt;li&gt;In 1978, ML built a polymorphic type system on top of Lisp, pioneering statically typed functional programming languages.
+Each of these languages spawned descendants, and most modern programming languages count at least one of them in their ancestry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The 1960s and 1970s also saw considerable debate over the merits of structured programming, and whether programming languages should be designed to support it. Edsger Dijkstra, in a famous 1968 letter published in the Communications of the ACM, argued that Goto statements should be eliminated from all &amp;ldquo;higher level&amp;rdquo; programming languages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Consolidation and growth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A selection of programming language textbooks; only a few of the thousands available.
+The 1980s were years of relative consolidation. C++ combined object-oriented and systems programming. The United States government standardized Ada, a systems programming language derived from Pascal and intended for use by defense contractors. In Japan and elsewhere, vast sums were spent investigating the so-called &amp;ldquo;fifth-generation&amp;rdquo; languages that incorporated logic programming constructs. The functional languages community moved to standardize ML and Lisp. Rather than inventing new paradigms, all of these movements elaborated upon the ideas invented in the previous decades.&lt;/p&gt;
+&lt;p&gt;One important trend in language design for programming large-scale systems during the 1980s was an increased focus on the use of modules or large-scale organizational units of code. Modula-2, Ada, and ML all developed notable module systems in the 1980s, which were often wedded to generic programming constructs.&lt;/p&gt;
+&lt;p&gt;The rapid growth of the Internet in the mid-1990s created opportunities for new languages. Perl, originally a Unix scripting tool first released in 1987, became common in dynamic websites. Java came to be used for server-side programming, and bytecode virtual machines became popular again in commercial settings with their promise of &amp;ldquo;Write once, run anywhere&amp;rdquo; (UCSD Pascal had been popular for a time in the early 1980s). These developments were not fundamentally novel; rather, they were refinements of many existing languages and paradigms (although their syntax was often based on the C family of programming languages).&lt;/p&gt;
+&lt;p&gt;Programming language evolution continues, in both industry and research. Current directions include security and reliability verification, new kinds of modularity (mixins, delegates, aspects), and database integration such as Microsoft&amp;rsquo;s LINQ.&lt;/p&gt;
+&lt;p&gt;Fourth-generation programming languages (4GL) are computer programming languages that aim to provide a higher level of abstraction of the internal computer hardware details than 3GLs. Fifth-generation programming languages (5GL) are programming languages based on solving problems using constraints given to the program, rather than using an algorithm written by a programmer.&lt;/p&gt;
+&lt;h2 id=&#34;design-and-implementation&#34;&gt;Design and implementation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Programming languages share properties with natural languages related to their purpose as vehicles for communication, having a syntactic form separate from its semantics, and showing language families of related languages branching one from another. But as artificial constructs, they also differ in fundamental ways from languages that have evolved through usage. A significant difference is that a programming language can be fully described and studied in its entirety since it has a precise and finite definition. By contrast, natural languages have changing meanings given by their users in different communities. While constructed languages are also artificial languages designed from the ground up with a specific purpose, they lack the precise and complete semantic definition that a programming language has.&lt;/p&gt;
+&lt;p&gt;Many programming languages have been designed from scratch, altered to meet new needs, and combined with other languages. Many have eventually fallen into disuse. Although there have been attempts to design one &amp;ldquo;universal&amp;rdquo; programming language that serves all purposes, all of them have failed to be generally accepted as filling this role. The need for diverse programming languages arises from the diversity of contexts in which languages are used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programs range from tiny scripts written by individual hobbyists to huge systems written by hundreds of programmers.&lt;/li&gt;
+&lt;li&gt;Programmers range in expertise from novices who need simplicity above all else to experts who may be comfortable with considerable complexity.&lt;/li&gt;
+&lt;li&gt;Programs must balance speed, size, and simplicity on systems ranging from microcontrollers to supercomputers.&lt;/li&gt;
+&lt;li&gt;Programs may be written once and not change for generations, or they may undergo continual modification.&lt;/li&gt;
+&lt;li&gt;Programmers may simply differ in their tastes: they may be accustomed to discussing problems and expressing them in a particular language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One common trend in the development of programming languages has been to add more ability to solve problems using a higher level of abstraction. The earliest programming languages were tied very closely to the underlying hardware of the computer. As new programming languages have developed, features have been added that let programmers express ideas that are more remote from simple translation into underlying hardware instructions. Because programmers are less tied to the complexity of the computer, their programs can do more computing with less effort from the programmer. This lets them write more functionality per time unit.&lt;/p&gt;
+&lt;p&gt;Natural language programming has been proposed as a way to eliminate the need for a specialized language for programming. However, this goal remains distant and its benefits are open to debate. Edsger W. Dijkstra took the position that the use of a formal language is essential to prevent the introduction of meaningless constructs, and dismissed natural language programming as &amp;ldquo;foolish&amp;rdquo;. Alan Perlis was similarly dismissive of the idea.[56] Hybrid approaches have been taken in Structured English and SQL.&lt;/p&gt;
+&lt;p&gt;A language&amp;rsquo;s designers and users must construct a number of artifacts that govern and enable the practice of programming. The most important of these artifacts are the language specification and implementation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specification&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The specification of a programming language is an artifact that the language users and the implementors can use to agree upon whether a piece of source code is a valid program in that language, and if so what its behavior shall be.&lt;/p&gt;
+&lt;p&gt;A programming language specification can take several forms, including the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An explicit definition of the syntax, static semantics, and execution semantics of the language. While syntax is commonly specified using a formal grammar, semantic definitions may be written in natural language (e.g., as in the C language), or a formal semantics (e.g., as in Standard ML and Scheme specifications).&lt;/li&gt;
+&lt;li&gt;A description of the behavior of a translator for the language (e.g., the C++ and Fortran specifications). The syntax and semantics of the language have to be inferred from this description, which may be written in natural or a formal language.&lt;/li&gt;
+&lt;li&gt;A reference or model implementation, sometimes written in the language being specified (e.g., Prolog or ANSI REXX). The syntax and semantics of the language are explicit in the behavior of the reference implementation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Implementation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Main article: Programming language implementation
+An implementation of a programming language provides a way to write programs in that language and execute them on one or more configurations of hardware and software. There are, broadly, two approaches to programming language implementation: compilation and interpretation. It is generally possible to implement a language using either technique.&lt;/p&gt;
+&lt;p&gt;The output of a compiler may be executed by hardware or a program called an interpreter. In some implementations that make use of the interpreter approach there is no distinct boundary between compiling and interpreting. For instance, some implementations of BASIC compile and then execute the source a line at a time.&lt;/p&gt;
+&lt;p&gt;Programs that are executed directly on the hardware usually run much faster than those that are interpreted in software.&lt;/p&gt;
+&lt;p&gt;One technique for improving the performance of interpreted programs is just-in-time compilation. Here the virtual machine, just before execution, translates the blocks of bytecode which are going to be used to machine code, for direct execution on the hardware.&lt;/p&gt;
+&lt;h2 id=&#34;proprietary-languages&#34;&gt;Proprietary languages&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Although most of the most commonly used programming languages have fully open specifications and implementations, many programming languages exist only as proprietary programming languages with the implementation available only from a single vendor, which may claim that such a proprietary language is their intellectual property. Proprietary programming languages are commonly domain specific languages or internal scripting languages for a single product; some proprietary languages are used only internally within a vendor, while others are available to external users.&lt;/p&gt;
+&lt;p&gt;Some programming languages exist on the border between proprietary and open; for example, Oracle Corporation asserts proprietary rights to some aspects of the Java programming language, and Microsoft&amp;rsquo;s C# programming language, which has open implementations of most parts of the system, also has Common Language Runtime (CLR) as a closed environment.&lt;/p&gt;
+&lt;p&gt;Many proprietary languages are widely used, in spite of their proprietary nature; examples include MATLAB, VBScript, and Wolfram Language. Some languages may make the transition from closed to open; for example, Erlang was originally an Ericsson&amp;rsquo;s internal programming language.&lt;/p&gt;
+&lt;h2 id=&#34;use&#34;&gt;Use&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Thousands of different programming languages have been created, mainly in the computing field. Individual software projects commonly use five programming languages or more.&lt;/p&gt;
+&lt;p&gt;Programming languages differ from most other forms of human expression in that they require a greater degree of precision and completeness. When using a natural language to communicate with other people, human authors and speakers can be ambiguous and make small errors, and still expect their intent to be understood. However, figuratively speaking, computers &amp;ldquo;do exactly what they are told to do&amp;rdquo;, and cannot &amp;ldquo;understand&amp;rdquo; what code the programmer intended to write. The combination of the language definition, a program, and the program&amp;rsquo;s inputs must fully specify the external behavior that occurs when the program is executed, within the domain of control of that program. On the other hand, ideas about an algorithm can be communicated to humans without the precision required for execution by using pseudocode, which interleaves natural language with code written in a programming language.&lt;/p&gt;
+&lt;p&gt;A programming language provides a structured mechanism for defining pieces of data, and the operations or transformations that may be carried out automatically on that data. A programmer uses the abstractions present in the language to represent the concepts involved in a computation. These concepts are represented as a collection of the simplest elements available (called primitives). Programming is the process by which programmers combine these primitives to compose new programs, or adapt existing ones to new uses or a changing environment.&lt;/p&gt;
+&lt;p&gt;Programs for a computer might be executed in a batch process without human interaction, or a user might type commands in an interactive session of an interpreter. In this case the &amp;ldquo;commands&amp;rdquo; are simply programs, whose execution is chained together. When a language can run its commands through an interpreter (such as a Unix shell or other command-line interface), without compiling, it is called a scripting language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measuring language usage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Determining which is the most widely used programming language is difficult since the definition of usage varies by context. One language may occupy the greater number of programmer hours, a different one has more lines of code, and a third may consume the most CPU time. Some languages are very popular for particular kinds of applications. For example, COBOL is still strong in the corporate data center, often on large mainframes; Fortran in scientific and engineering applications; Ada in aerospace, transportation, military, real-time and embedded applications; and C in embedded applications and operating systems. Other languages are regularly used to write many different kinds of applications.&lt;/p&gt;
+&lt;p&gt;Various methods of measuring language popularity, each subject to a different bias over what is measured, have been proposed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;counting the number of job advertisements that mention the language&lt;/li&gt;
+&lt;li&gt;the number of books sold that teach or describe the language&lt;/li&gt;
+&lt;li&gt;estimates of the number of existing lines of code written in the language – which may underestimate languages not often found in public searches&lt;/li&gt;
+&lt;li&gt;counts of language references (i.e., to the name of the language) found using a web search engine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Combining and averaging information from various internet sites, stackify.com reported the ten most popular programming languages as (in descending order by overall popularity): Java, C, C++, Python, C#, JavaScript, VB .NET, R, PHP, and MATLAB.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://example.com/post/presentation/</link>
+      <pubDate>Sat, 21 May 2022 01:14:43 +0300</pubDate>
+      <guid>https://example.com/post/presentation/</guid>
+      <description>&lt;h2 id=&#34;how-to-make-a-good-presentation&#34;&gt;How to make a good presentation&lt;/h2&gt;
+&lt;hr&gt;
+Making a good presentation starts with crafting the content. No matter how compelling your message is, if you don’t get it out of your brain and on to the screen in a simple way, you’ll be met with a sea of blank faces. So, where to begin?
+&lt;h3 id=&#34;1-create-an-easy-to-follow-structure&#34;&gt;1. Create an easy-to-follow structure&lt;/h3&gt;
+&lt;hr&gt;
+When it comes to what you have to say, break it down into three simple sections: your presentation needs an introduction, body, and conclusion.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A compelling introduction&lt;/strong&gt;. Your introduction needs to briefly sum up what you’re going to talk about and why it’s useful or relevant to your audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Offer a body of evidence&lt;/strong&gt;. The body of your presentation is where you hit ’em with the facts, quotes, and evidence to back up your main points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sum up with key takeaways&lt;/strong&gt;. The conclusion is where you loop back to your original statement and give the audience some key takeaways on how they can put into practice what they’ve learned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No more than 10 slides in total&lt;/strong&gt;. Who wants to sit through pages and pages of slides? No one, that’s who. By keeping your slide deck to 10 slides, even if your presentation is 30 minutes long, you’ll give the audience a chance to digest the on-screen messages in line with your talk. Using concept maps before structuring your slides can help keep to the point.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-limit-the-amount-of-copy-on-each-slide&#34;&gt;2. Limit the amount of copy on each slide&lt;/h3&gt;
+&lt;hr&gt;
+Less really is more, especially when it comes to making a good presentation. Too much text and the audience will just be reading the screen instead of looking at you and feeling the emotional impact of your message.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No more than six words per slide&lt;/strong&gt;. Marketing king Seth Godin says we should have just six words per slide – that’s not a lot of copy. Choose your words carefully and rewrite until you’ve got it just right.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Think ‘bite-size’ information&lt;/strong&gt;. We called ourselves Biteable a reason: studies have shown that information is retained better when it’s broken down into bite-sized chunks. Video is a great way to learn and research suggests it’s 95% more compelling than text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-be-savvy-with-design-details&#34;&gt;3. Be savvy with design details&lt;/h3&gt;
+&lt;hr&gt;
+A good design can make or break a presentation. If you haven’t got the budget for a designer, presentation tools such as Pexels or Unsplash offer stunning royalty-free images.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use color sparingly&lt;/strong&gt;. Bright colors can dazzle, but too many can be offputting. Use the colors most relevant to your message. We’d recommend sticking with one or two (not counting black and white) for your palette so it has a consistent look and feel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be consistent with your font&lt;/strong&gt;. Consistent design makes you look more professional. Don’t switch between caps and lower case, Times New Roman and Comic Sans, or 8 and 30 point text size. Stick with one font and one size throughout. You can vary the emphasis with your words later, but keep your on-screen text uniform for a more cohesive message.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Format for perfection&lt;/strong&gt;. A wonky line on a slide or a badly pixelated graphic will put some people off, as it will look like you haven’t tried very hard (or worse, that you just aren’t very good). Make sure your text is aligned and neat like in the example below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-polish-several-times&#34;&gt;4. Polish several times&lt;/h3&gt;
+&lt;hr&gt;
+Just like some well-worn shoes, a good presentation often needs a few rounds of dusting before it’s all shiny and sparkly.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Start Messy&lt;/strong&gt;. Don’t be afraid to start messy. Using a non-linear writing tool like Milanote allows you to explore and outline your initial ideas in a flexible way before you even open up Powerpoint or Keynote. Arrange your ideas side-by-side and discover new connections that you didn’t see before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Edit ruthlessly&lt;/strong&gt;. At first you might have a huge amount of information and will wonder how you’re ever going get it down to six words per slide. That’s OK. Keep editing ruthlessly until you’ve pared your message down to the bare essentials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Get someone else to look at it&lt;/strong&gt;. A fresh pair of eyes can work miracles when it comes to refining your presentation. Get a trusted mentor or colleague to review your work. If you don’t know anyone who can help, an online writing assistant like ProWritingAid or Grammarly can help you weed out a lot of problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-give-a-good-presentation&#34;&gt;How to give a good presentation&lt;/h2&gt;
+&lt;hr&gt;
+How you deliver your slides is as important as their content and design. Here are some quick pointers to help you get your message across with impact.
+&lt;h3 id=&#34;5-have-a-strong-opening&#34;&gt;5. Have a strong opening&lt;/h3&gt;
+&lt;hr&gt;
+How you start and finish your presentation will make all the difference. Audiences usually make up their minds about someone in the first 7 seconds, so make those first moments count.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be different&lt;/strong&gt;. You’re doing a presentation about saving tree frogs in Costa Rica. You open with an amusing story about one that escaped on a bunch of bananas to the UK. A story like this is different and unexpected for your audience, so they’ll sit up and take notice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ask a question&lt;/strong&gt;. Rhetorical questions are a great way to frame a topic and introduce ideas. Martin Luther King Jr. said: ‘there are those who are asking the devotees of civil rights, “When will you be satisfied?’”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tailor it to your audience&lt;/strong&gt;. How much do you know about your audience? The more you know, the better. Especially if you know their likes and dislikes. Inserting a relevant metaphor or popular culture reference. Oprah Winfrey’s Stanford commencement address spoke to the graduates about her lessons learned and how they were entering ‘the classroom of life.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-be-genuine&#34;&gt;6. Be genuine&lt;/h3&gt;
+&lt;hr&gt;
+Oscar Wilde said ‘Be yourself; everyone else is already taken.’ A lack of authenticity will be spotted a mile away. Whatever you’re saying, speak from the heart and don’t try to impress – there’s no need to prove yourself, just to get the point across as you see it. After all, that’s why you’re there, and you can’t do more than that.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use humor&lt;/strong&gt;. Humor can be great for giving a presentation, but cut it out if it feels like a stretch. Telling a humorous story can break down any barriers, make you more likeable, and make your message more memorable (and people are surprisingly generous with laughter) but the faintest whiff of desperation will kill a funny vibe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Don’t be afraid to mess up&lt;/strong&gt;. The fear of making a mistake can make you inordinately nervous. Relax, even the best speakers mess up or have bad luck. Theresa May, ex-Prime Minister of England, once stumbled and coughed her way through a presentation, with someone even handing her a resignation letter. She battled through like a pro, though, and simply acknowledged it and moved on. No big deal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open up and be vulnerable&lt;/strong&gt;. Brene Brown, a researcher whose presentations have amassed over ten million views, says that “Sometimes the bravest and most important thing you can do is just show up.” This means speaking your truth and daring to feel a little uncomfortable as you share a meaningful story. It will connect your audience to you like never before.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-have-a-plan-for-a-smooth-delivery&#34;&gt;7. Have a plan for a smooth delivery&lt;/h3&gt;
+&lt;hr&gt;
+With all the prep you’re doing on the content and design of your presentation, it can be easy to overlook other variables that are within your control for a stress-free delivery.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Have a practice run-through&lt;/strong&gt;. There’s nothing like reading it out loud to ensure your message makes sense before you actually deliver it. Try recording your presentation on video — this way you’ll be able to review with an accurate eye and notice whether your speech matches up with your slides. It’ll also help you sort out your run time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a remote&lt;/strong&gt;. A clicker or remote will help you face the audience and not have to keep turning back to your laptop. Sought-after public speaker Garr Reynolds says a remote is essential in order to pause and advance your presentation so you have time to be spontaneous and control the flow of your delivery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Have backup material&lt;/strong&gt;. Not everything you say is going to resonate with your audience. It’s best to be flexible enough to change the game as and when needed. Steve Jobs had standby anecdotes prepared to fill time when the technology he was using to give the presentation failed. Preparing for every eventuality will help soothe your nerves and allow you to feel more in control.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a timer&lt;/strong&gt;. When you get into the flow of your message, it’s easy to go off on a tangent or even spend too long on audience questions. Put your phone on airplane mode and set the stopwatch just as you begin speaking. A quick glance down at the table during a pause will allow you to make sure you’re not going overtime&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-to-conclude-focus-on-audience-value&#34;&gt;8: To conclude, focus on audience value&lt;/h3&gt;
+&lt;hr&gt;
+You’re coming to the end of your presentation. How do you wrap it up in a way that will be everlasting in their memories? The experts recommend you focus on the feeling you want the audience to take home.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Leave your audience with an emotional impression&lt;/strong&gt;.‘They might forget what you said, but they’ll never forget the way they made you feel’ said the poet Maya Angelou. By leaving them with an emotional impression, from a piece of video with moving music to a line from a song or poem, you’ll strike that resonant chord and end on a high.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a pause for key takeaways&lt;/strong&gt;. Want the audience to remember something specific? Say it slowly and leave a pause at the end. The silence will emphasize what you said and make it meaningful.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Make your core message sing&lt;/strong&gt;. A call to action is the best way to wrap up your presentation with strength and impact. What do you want your audience to do next? Tony Robbins tells a great story at the end of this presentation, moving his audience emotionally towards change.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 09.05 - 15.05</title>
+      <link>https://example.com/post/week091505/</link>
+      <pubDate>Sat, 21 May 2022 01:07:58 +0300</pubDate>
+      <guid>https://example.com/post/week091505/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned to work with vectors in c++&lt;/li&gt;
+&lt;li&gt;Started a new python project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;I think last week was quite productive.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 02.05 - 08.05</title>
+      <link>https://example.com/post/week020805/</link>
+      <pubDate>Sat, 14 May 2022 18:39:42 +0300</pubDate>
+      <guid>https://example.com/post/week020805/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Got basic knowledge of python programming language&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wrote a shop program in c++ programming language&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;I think this week is quite productive.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).&lt;/p&gt;
+&lt;p&gt;Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.Git is free and open-source software distributed under the GPL-2.0-only license.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;Git development began in April 2005, after many developers of the Linux kernel gave up access to BitKeeper, a proprietary source-control management (SCM) system that they had been using to maintain the project since 2002. The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after claiming that Andrew Tridgell had created SourcePuller by reverse engineering the BitKeeper protocols. The same incident also spurred the creation of another version-control system, Mercurial.&lt;/p&gt;
+&lt;p&gt;Linus Torvalds wanted a distributed system that he could use like BitKeeper, but none of the available free systems met his needs. Torvalds cited an example of a source-control management system needing 30 seconds to apply a patch and update all associated metadata, and noted that this would not scale to the needs of Linux kernel development, where synchronizing with fellow maintainers could require 250 such actions at once. For his design criterion, he specified that patching should take no more than three seconds, and added three more goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take Concurrent Versions System (CVS) as an example of what &lt;em&gt;not&lt;/em&gt; to do; if in doubt, make the exact opposite decision.&lt;/li&gt;
+&lt;li&gt;Support a distributed, BitKeeper-like workflow.&lt;/li&gt;
+&lt;li&gt;Include very strong safeguards against corruption, either accidental or malicious.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These criteria eliminated every version-control system in use at the time, so immediately after the 2.6.12-rc2 Linux kernel development release, Torvalds set out to write his own.&lt;/p&gt;
+&lt;p&gt;The development of Git began on 3 April 2005. Torvalds announced the project on 6 April and became self-hosting the next day. The first merge of multiple branches took place on 18 April. Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches to the Linux kernel tree at the rate of 6.7 patches per second. On 16 June, Git managed the kernel 2.6.12 release.&lt;/p&gt;
+&lt;p&gt;Torvalds turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project. Hamano was responsible for the 1.0 release on 21 December 2005 and remains the project&amp;rsquo;s core maintainer.&lt;/p&gt;
+&lt;h2 id=&#34;naming&#34;&gt;Naming&lt;/h2&gt;
+&lt;p&gt;Torvalds sarcastically quipped about the name &lt;em&gt;git&lt;/em&gt; (which means &amp;ldquo;unpleasant person&amp;rdquo; in British English slang): &amp;ldquo;I&amp;rsquo;m an egotistical bastard, and I name all my projects after myself. First &amp;lsquo;Linux&amp;rsquo;, now &amp;lsquo;git&amp;rsquo;.&amp;rdquo; The man page describes Git as &amp;ldquo;the stupid content tracker&amp;rdquo;. The read-me file of the source code elaborates further:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;git&amp;rdquo; can mean anything, depending on your mood.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of &amp;ldquo;get&amp;rdquo; may or may not be relevant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stupid. Contemptible and despicable. Simple. Take your pick from the dictionary of slang.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Global information tracker&amp;rdquo;: you&amp;rsquo;re in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Goddamn idiotic truckload of sh*t&amp;rdquo;: when it breaks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementations&#34;&gt;Implementations&lt;/h2&gt;
+&lt;p&gt;Git (the main implementation in C) is primarily developed on Linux, although it also supports most major operating systems, including the BSDs (DragonFly BSD, FreeBSD, NetBSD, and OpenBSD), Solaris, macOS, and Windows.&lt;/p&gt;
+&lt;p&gt;The first Windows port of Git was primarily a Linux-emulation framework that hosts the Linux version. Installing Git under Windows creates a similarly named Program Files directory containing the Mingw-w64 port of the GNU Compiler Collection, Perl 5, MSYS2 (itself a fork of Cygwin, a Unix-like emulation environment for Windows) and various other Windows ports or emulations of Linux utilities and libraries. Currently, native Windows builds of Git are distributed as 32- and 64-bit installers. The git official website currently maintains a build of Git for Windows, still using the MSYS2 environment.&lt;/p&gt;
+&lt;p&gt;The JGit implementation of Git is a pure Java software library, designed to be embedded in any Java application. JGit is used in the Gerrit code-review tool, and in EGit, a Git client for the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Go-git is an open-source implementation of Git written in pure Go. It is currently used for backing projects as a SQL interface for Git code repositories and providing encryption for Git.&lt;/p&gt;
+&lt;p&gt;The Dulwich implementation of Git is a pure Python software component for Python 2.7, 3.4 and 3.5.&lt;/p&gt;
+&lt;p&gt;The libgit2 implementation of Git is an ANSI C software library with no other dependencies, which can be built on multiple platforms, including Windows, Linux, macOS, and BSD. It has bindings for many programming languages, including Ruby, Python, and Haskell.&lt;/p&gt;
+&lt;p&gt;JS-Git is a JavaScript implementation of a subset of Git.&lt;/p&gt;
+&lt;h2 id=&#34;conventions&#34;&gt;Conventions&lt;/h2&gt;
+&lt;p&gt;Git does not impose many restrictions on how it should be used, but some conventions are adopted in order to organize histories, especially those which require the cooperation of many contributors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;em&gt;master&lt;/em&gt; branch is created by default with &lt;em&gt;git init&lt;/em&gt;  and is often used as the branch that other changes are merged into. Correspondingly, the default name of the upstream remote is &lt;em&gt;origin&lt;/em&gt; and so the name of the default remote branch is &lt;em&gt;origin/master&lt;/em&gt;. The use of &lt;em&gt;master&lt;/em&gt; as the default branch name is not universally true. Repositories created in GitHub and GitLab will initialize with a &lt;em&gt;main&lt;/em&gt; branch instead of &lt;em&gt;master&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Pushed commits should usually not be overwritten, but should rather be _revert_ed (a commit is made on top which reverses the changes to an earlier commit). This prevents shared new commits based on shared commits from being invalid because the commit on which they are based does not exist in the remote. If the commits contain sensitive information, they should be removed, which involves a more complex procedure to rewrite history.&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;git-flow&lt;/em&gt; workflow and naming conventions are often adopted to distinguish feature specific unstable histories (feature/*), unstable shared histories (develop), production ready histories (main), and emergency patches to released products (hotfix).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Pull requests&lt;/em&gt; are not a feature of git, but are commonly provided by git cloud services. A pull request is a request by one user to merge a branch of their repository fork into another repository sharing the same history (called the &lt;em&gt;upstream&lt;/em&gt; remote). The underlying function of a pull request is no different than that of an administrator of a repository pulling changes from another remote (the repository that is the source of the pull request). However, the pull request itself is a ticket managed by the hosting server which initiates scripts to perform these actions; it is not a feature of git SCM.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt;  is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &amp;ldquo;What You See Is What You Get&amp;rdquo; word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&lt;/p&gt;
+&lt;p&gt;LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, computer science, engineering, physics, chemistry, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.&lt;/p&gt;
+&lt;p&gt;LaTeX can be used as a standalone document preparation system, or as an intermediate format. In the latter role, for example, it is sometimes used as part of a pipeline for translating DocBook and other XML-based formats to PDF. The typesetting system offers programmable desktop publishing features and extensive facilities for automating most aspects of typesetting and desktop publishing, including numbering and cross-referencing of tables and figures, chapter and section headings, the inclusion of graphics, page layout, indexing and bibliographies.&lt;/p&gt;
+&lt;p&gt;Like TeX, LaTeX started as a writing tool for mathematicians and computer scientists, but even from early in its development, it has also been taken up by scholars who needed to write documents that include complex math expressions or non-Latin scripts, such as Arabic, Devanagari and Chinese.&lt;/p&gt;
+&lt;p&gt;LaTeX is intended to provide a high-level, descriptive markup language that accesses the power of TeX in an easier way for writers. In essence, TeX handles the layout side, while LaTeX handles the content side for document processing. LaTeX comprises a collection of TeX macros and a program to process LaTeX documents, and because the plain TeX formatting commands are elementary, it provides authors with ready-made commands for formatting and layout requirements such as chapter headings, footnotes, cross-references and bibliographies.&lt;/p&gt;
+&lt;p&gt;LaTeX was originally written in the early 1980s by Leslie Lamport at SRI International. The current version is LaTeX2e (stylised as LATEX2ε), released in 1994, but updated in 2020. LaTeX3 (LATEX3) has been under long-term development since the early 1990s. LaTeX is free software and is distributed under the LaTeX Project Public License (LPPL).&lt;/p&gt;
+&lt;h2 id=&#34;typesetting-system&#34;&gt;Typesetting system&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;LaTeX attempts to follow the design philosophy of separating presentation from content, so that authors can focus on the content of what they are writing without attending simultaneously to its visual appearance. In preparing a LaTeX document, the author specifies the logical structure using simple, familiar concepts such as &lt;em&gt;chapter&lt;/em&gt;, &lt;em&gt;section&lt;/em&gt;, &lt;em&gt;table&lt;/em&gt;, &lt;em&gt;figure&lt;/em&gt;, etc., and lets the LaTeX system handle the formatting and layout of these structures. As a result, it encourages the separation of the layout from the content — while still allowing manual typesetting adjustments whenever needed. This concept is similar to the mechanism by which many word processors allow styles to be defined globally for an entire document, or the use of Cascading Style Sheets in styling HTML documents.&lt;/p&gt;
+&lt;p&gt;The LaTeX system is a markup language that handles typesetting and rendering, and can be arbitrarily extended by using the underlying macro language to develop custom macros such as new environments and commands. Such macros are often collected into _packages,_which could then be made available to address some specific typesetting needs such as the formatting of complex mathematical expressions or graphics (e.g., the use of the &lt;code&gt;align&lt;/code&gt;environment provided by the &lt;code&gt;amsmath&lt;/code&gt; package to produce aligned equations).&lt;/p&gt;
+&lt;p&gt;In order to create a document in LaTeX, you first write a file, say &lt;code&gt;document.tex&lt;/code&gt;, using your preferred text editor. Then you give your &lt;code&gt;document.tex&lt;/code&gt; file as input to the TeX program (with the LaTeX macros loaded), which prompts TeX to write out a file suitable for onscreen viewing or printing. This write-format-preview cycle is one of the chief ways in which working with LaTeX differs from the What-You-See-Is-What-You-Get (WYSIWYG) style of document editing. It is similar to the code-compile-execute cycle known to computer programmers. Today, many LaTeX-aware editing programs make this cycle a simple matter through the pressing of a single key, while showing the output preview on the screen beside the input window. Some online LaTeX editors even automatically refresh the preview, while other online tools provide incremental editing in-place, mixed in with the preview in a streamlined single window.&lt;/p&gt;
+&lt;h2 id=&#34;pronouncing-and-writing-latex&#34;&gt;Pronouncing and writing &amp;ldquo;LaTeX&amp;rdquo;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;The characters &amp;lsquo;T&amp;rsquo;, &amp;lsquo;E&amp;rsquo;, and &amp;lsquo;X&amp;rsquo; in the name come from the Greek capital letters tau, epsilon, and chi, as the name of TeX derives from the Ancient Greek: τέχνη (&amp;lsquo;skill&amp;rsquo;, &amp;lsquo;art&amp;rsquo;, &amp;rsquo;technique&amp;rsquo;); for this reason, TeX&amp;rsquo;s creator Donald Knuth promotes its pronunciation as /tɛx/ (&lt;em&gt;tekh&lt;/em&gt;) (that is, with a voiceless velar fricative as in Modern Greek, similar to the ch in loch). Lamport remarks that &amp;ldquo;TeX is usually pronounced &lt;em&gt;tech&lt;/em&gt;, making &lt;em&gt;lah&lt;/em&gt;-tech, lah-&lt;em&gt;tech&lt;/em&gt;, and &lt;em&gt;lay&lt;/em&gt;-tech the logical choices; but language is not always logical, so &lt;em&gt;lay-tecks&lt;/em&gt; is also possible.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The name is traditionally printed in running text with a special typographical logo: LATEX. In media where the logo cannot be precisely reproduced in running text, the word is typically given the unique capitalization &lt;em&gt;LaTeX&lt;/em&gt;. Alternatively, the TeX, LaTeX and XeTeX logos can also be rendered via pure CSS and XHTML for use in graphical web browsers — by following the specifications of the internal &lt;code&gt;\LaTeX&lt;/code&gt; macro.&lt;/p&gt;
+&lt;h2 id=&#34;related-software&#34;&gt;Related software&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;As a macro package, LaTeX provides a set of macros for TeX to interpret. There are many other macro packages for TeX, including Plain TeX, GNU Texinfo, AMSTeX, and ConTeXt.&lt;/p&gt;
+&lt;p&gt;When TeX &amp;ldquo;compiles&amp;rdquo; a document, it follows (from the user&amp;rsquo;s point of view) the following processing sequence: Macros → TeX → Driver → Output. Different implementations of each of these steps are typically available in TeX distributions. Traditional TeX will output a DVIfile, which is usually converted to a PostScript file. More recently, Hàn Thế Thành and others have written a new implementation of TeX called pdfTeX, which also outputs to PDF and takes advantage of features available in that format. The XeTeX engine developed by Jonathan Kew, on the other hand, merges modern font technologies and Unicode with TeX.&lt;/p&gt;
+&lt;p&gt;The default font for LaTeX is Knuth&amp;rsquo;s Computer Modern, which gives default documents created with LaTeX the same distinctive look as those created with plain TeX. XeTeX allows the use of OpenType and TrueType (that is, outlined) fonts for output files.&lt;/p&gt;
+&lt;p&gt;There are also many editors for LaTeX, some of which are offline, source-code-based while others are online, partial-WYSIWYG-based. For more, see Comparison of TeX editors.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;LaTeX was created in the early 1980s by Leslie Lamport, when he was working at SRI. He needed to write TeX macros for his own use, and thought that with a little extra effort he could make a general package usable by others. Peter Gordon, an editor at Addison-Wesley, convinced him to write a LaTeX user&amp;rsquo;s manual for publication (Lamport was initially skeptical that anyone would pay money for it); it came out in 1986 and sold hundreds of thousands of copies. Meanwhile, Lamport released versions of his LaTeX macros in 1984 and 1985. On 21 August 1989, at a TeX Users Group (TUG) meeting at Stanford, Lamport agreed to turn over maintenance and development of LaTeX to Frank Mittelbach. Mittelbach, along with Chris Rowley and Rainer Schöpf, formed the LaTeX3 team; in 1994, they released LaTeX2e, the current standard version. LaTeX3 itself has since been cancelled with version features intended for that version being back-ported to LaTeX 2e since 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portage (software)</title>
+      <link>https://example.com/post/portage/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/portage/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Accessing Portage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Porthole graphical frontend.
+Portage is similar to the BSD-style package management known as ports, and was originally designed with FreeBSD&amp;rsquo;s ports in mind. Portage is written in the Python programming language, and is the main utility that defines Gentoo. Although the system itself is known as Portage, it consists of two main parts, the ebuild system and emerge. The ebuild system takes care of the actual work of building and installing packages, while emerge provides an interface to ebuild: managing an ebuild repository, resolving dependencies and similar issues. (These two therefore have roughly the same relation as rpm has with yum, or dpkg has with APT.)&lt;/p&gt;
+&lt;p&gt;A GTK+-based GUI, Porthole, is available for working with Portage. There is also the Himerge GUI, which stands for &amp;ldquo;Haskell Interface for eMerge&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Functions provided&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Portage is characterized by its main function: compiling from source code the packages the user wishes to install. In doing so it allows customization of compiler and target-application options to fit the system&amp;rsquo;s specifications and the user&amp;rsquo;s own wishes. Functionalities related to system management include: allowing parallel package-version installation, tracking cross-package dependencies, managing a database of installed packages, providing a local ebuild repository, and synchronizing of the local Portage tree with remote repositories. Functionalities related to individual package installation include: specifying compilation settings for the target machine and choosing package components.&lt;/p&gt;
+&lt;p&gt;Portage distinguishes between three levels of stability in ebuilds: stable (e.g., the software works as intended with no known security issues at time of release), keyword masked (mainly for packages that have not been sufficiently tested on the target system architecture to be considered stable) and hard masked (broken or very insecure) packages.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Emerge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unmerge of SpaceFM file manager
+The emerge command-line tool is the heart of Portage. The command is customizable with many options and modifiers. The emerge tool is the most important utility for accessing the features of Portage from the command line.&lt;/p&gt;
+&lt;p&gt;The program calculates and manages dependencies, executes ebuilds and maintains the local Portage tree and database of installed packages. The compilation settings used by ebuilds can be changed through the CFLAGS environment variable, based on the specifications of the individual computer and on the user&amp;rsquo;s desire for optimization. The emerge utility executes ebuilds in a sandbox environment. This way the system is protected from software executed by the ebuild and resulting binaries are only merged after a successful build and sandboxed install.&lt;/p&gt;
+&lt;p&gt;What emerge installs as dependencies is affected by the USE flag-settings. They decide which optional features will be included when installing or upgrading an application. The emerge command can also be used to download and install precompiled binary files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;USE flags&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Portage during system update
+The Portage system offers the use of &amp;ldquo;USE flags&amp;rdquo;, which allows users to indicate which software features they would like to include (and exclude) while building packages. For example, there is a USE flag to include DVD support, where available, in packages compiled with the flag enabled. The USE flags affect which dependencies are required, generally affecting which optional features will be built into a given program when it is compiled. For example, in packages which use a configure script, the USE flag feature would translate to ./configure &amp;ndash;with-feature.&lt;/p&gt;
+&lt;p&gt;The specification of USE flags is the usual way to configure programs on Gentoo. USE flags may be set manually, or via user-friendly tools such as &amp;lsquo;ufed&amp;rsquo; (USE flag editor), which lists flags along with their description. A list of available USE flags is available at the Gentoo website&amp;rsquo;s USE Flag Index.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Emerge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unmerge of SpaceFM file manager
+The emerge command-line tool is the heart of Portage. The command is customizable with many options and modifiers. The emerge tool is the most important utility for accessing the features of Portage from the command line.&lt;/p&gt;
+&lt;p&gt;The program calculates and manages dependencies, executes ebuilds and maintains the local Portage tree and database of installed packages. The compilation settings used by ebuilds can be changed through the CFLAGS environment variable, based on the specifications of the individual computer and on the user&amp;rsquo;s desire for optimization. The emerge utility executes ebuilds in a sandbox environment. This way the system is protected from software executed by the ebuild and resulting binaries are only merged after a successful build and sandboxed install.&lt;/p&gt;
+&lt;p&gt;What emerge installs as dependencies is affected by the USE flag-settings. They decide which optional features will be included when installing or upgrading an application. The emerge command can also be used to download and install precompiled binary files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;USE flags&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Portage during system update
+The Portage system offers the use of &amp;ldquo;USE flags&amp;rdquo;, which allows users to indicate which software features they would like to include (and exclude) while building packages. For example, there is a USE flag to include DVD support, where available, in packages compiled with the flag enabled. The USE flags affect which dependencies are required, generally affecting which optional features will be built into a given program when it is compiled. For example, in packages which use a configure script, the USE flag feature would translate to ./configure &amp;ndash;with-feature.&lt;/p&gt;
+&lt;p&gt;The specification of USE flags is the usual way to configure programs on Gentoo. USE flags may be set manually, or via user-friendly tools such as &amp;lsquo;ufed&amp;rsquo; (USE flag editor), which lists flags along with their description. A list of available USE flags is available at the Gentoo website&amp;rsquo;s USE Flag Index.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ebuild&lt;/strong&gt;
+Gentoo does not, by default, use binary packages as other package management systems do (like pacman or apt), employing instead a format known as the ebuild. Whereas RPM binaries are precompiled binaries, ebuilds are shell scripts with variables and functions which contain a description of the software, and instructions on how to obtain, configure, compile, and install it, more closely akin to (but more powerful than) the .spec files distributed in SRPMs.[8] There are over 19,000 ebuilds available, the majority of which are distributed by the Gentoo mirrors. New and updated ebuilds can be obtained by synchronizing the local ebuild repository with the mirrors. This is done by executing the command emerge &amp;ndash;sync. Historically, Gentoo has provided pre-compiled binary packages for many common programs, especially those which are lengthy to compile, such as Mozilla Firefox and OpenOffice.org. These are still installed with emerge, just by appending a &amp;ldquo;-bin&amp;rdquo; to the package name to instead install the binary version.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Binary packages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gentoo does have a binary packaging format, which is a .tbz2 file (tar with bzip2 compression) with additional metadata. This feature enables the building of binary packages on one system (using Portage&amp;rsquo;s buildpkg or quickpkg) followed by quick installation on other, identical systems (with Portage&amp;rsquo;s getbinpkg or emerge -K). See Portage Features in the Gentoo Linux Handbook for more information.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Masking&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Masking is how Gentoo determines which packages are suitable for a system. Ebuilds designed for different architectures or experimental software are usually masked in a manner which prevents a stable system from installing them without user intervention.&lt;/p&gt;
+&lt;p&gt;Packages that generally just require some testing but will often work fine are said to be keyword masked (i.e. they are available for systems with an ACCEPT_KEYWORDS make.conf entry starting with the character ~, such as ~x86, ~amd64, ~ppc). The standard way to unmask an individual keyword masked package is by adding a file with the full package name and keyword to /etc/portage/package.accept_keywords/. Users can make subdirectories here as well, allowing for custom organization. For example, if a masked package had multiple masked dependencies, the user could make a directory with the name of the original masked package, and put all the mask files for the package and its dependencies in that directory. This scheme replaces the older scheme of having /etc/portage/package.accept_keywords as a text file list.&lt;/p&gt;
+&lt;p&gt;Packages with known problems or not considered mature enough to be candidates for stable are hard masked by one of the various package.mask files in /usr/portage/profiles, and such entries are generally accompanied by a comment from developers explaining the reason for the mask.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

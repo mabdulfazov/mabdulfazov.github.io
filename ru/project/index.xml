@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Абдулфазов Мансур А.о.</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;h1 id=&#34;этапы-реализации-проекта&#34;&gt;Этапы реализации проекта.&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Размещение на &lt;em&gt;Github pages&lt;/em&gt; заготовки для персонального сайта.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для &lt;em&gt;URLs&lt;/em&gt; сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на &lt;em&gt;Github pages&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Выполнение этапа: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyElkIluG4BEl06g-zEnqlUY&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+ &lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Добавить к сайту данные о себе.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+&lt;ul&gt;
+&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
+&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
+&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Выполнение этапа: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFmK3pshW9Y_aLbNXQKz-rh&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Добавить к сайту достижения.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.
+&lt;ul&gt;
+&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
+&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
+&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
+&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Выполнение этапа: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyHC9ea-kWcKJPTPPKV__pPC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Добавить к сайту ссылки на научные и библиометрические ресурсы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Stage execution: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/playlist?list=PLS-FXklqMDyFS0tg-kXiup9A5RC7Q_0nU&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Добавить с сайту все остальные элементы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.
+&lt;ul&gt;
+&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Выполнение этапа: &lt;a href=&#34;https://youtube.com/playlist?list=PLS-FXklqMDyHLbUk16D22-QF66HKldA8G&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com/playlist?list=PLS-FXklqMDyHLbUk16D22-QF66HKldA8G&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Размещение двуязычного сайта на Github.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**Выполнение этапа: **&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
