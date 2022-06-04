@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Абдулфазов Мансур А.о.</title>
-    <link>https://example.com/ru/tag/academic/</link>
-      <atom:link href="https://example.com/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mabdulfazov.github.io/ru/tag/academic/</link>
+      <atom:link href="https://mabdulfazov.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mabdulfazov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/tag/academic/</link>
+      <link>https://mabdulfazov.github.io/ru/tag/academic/</link>
     </image>
     
     <item>
       <title>Языки программирования</title>
-      <link>https://example.com/ru/post/clanguage/</link>
+      <link>https://mabdulfazov.github.io/ru/post/clanguage/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/clanguage/</guid>
+      <guid>https://mabdulfazov.github.io/ru/post/clanguage/</guid>
       <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;Язык программирования — это любой набор правил, который преобразует строки или графические элементы программы в случае визуальных языков программирования в различные виды вывода машинного кода. Языки программирования — это один из видов компьютерных языков, которые используются в компьютерном программировании для реализации алгоритмов.&lt;/p&gt;
@@ -123,9 +123,9 @@
     
     <item>
       <title>Git</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://mabdulfazov.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://mabdulfazov.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
 &lt;p&gt;Git — это программа для отслеживания изменений в любом наборе файлов, обычно используемая для координации работы программистов, совместно разрабатывающих исходный код во время разработки программного обеспечения. Его цели включают скорость, целостность данных и поддержку распределенных нелинейных рабочих процессов (тысячи параллельных ветвей, работающих в разных системах).&lt;/p&gt;
 &lt;p&gt;Первоначально Git был создан Линусом Торвальдсом в 2005 году для разработки ядра Linux, а другие разработчики ядра внесли свой вклад в его первоначальную разработку. С 2005 года основным сопровождающим является Хунио Хамано. Как и в большинстве других распределенных систем управления версиями и в отличие от большинства клиент-серверных систем, каждый каталог Git на каждом компьютере представляет собой полноценный репозиторий с полной историей и полными возможностями отслеживания версий, независимо от доступа к сети или центрального сервера. бесплатное программное обеспечение с открытым исходным кодом, распространяемое только по лицензии GPL-2.0.&lt;/p&gt;
@@ -180,9 +180,9 @@
     
     <item>
       <title>LaTeX</title>
-      <link>https://example.com/ru/post/latex/</link>
+      <link>https://mabdulfazov.github.io/ru/post/latex/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/latex/</guid>
+      <guid>https://mabdulfazov.github.io/ru/post/latex/</guid>
       <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — это программная система для подготовки документов. При написании писатель использует обычный текст, а не форматированный текст, который можно найти в текстовых процессорах «что видишь, то и получишь», таких как Microsoft Word, LibreOffice Writer и Apple Pages. Автор использует соглашения о тегах разметки, чтобы определить общую структуру документа, стилизовать текст по всему документу (например, выделить жирным шрифтом и курсивом), а также добавить цитаты и перекрестные ссылки. Дистрибутив TeX, такой как TeX Live или MiKTeX, используется для создания выходного файла (например, PDF или DVI), подходящего для печати или цифрового распространения.&lt;/p&gt;
@@ -214,9 +214,9 @@
     
     <item>
       <title>Система оправления пакетами Portage</title>
-      <link>https://example.com/ru/post/portage/</link>
+      <link>https://mabdulfazov.github.io/ru/post/portage/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/portage/</guid>
+      <guid>https://mabdulfazov.github.io/ru/post/portage/</guid>
       <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Доступ к Portage&lt;/strong&gt;&lt;/p&gt;

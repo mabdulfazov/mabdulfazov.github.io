@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mabdulfazov.github.io/category/demo/</link>
+      <atom:link href="https://mabdulfazov.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mabdulfazov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>https://mabdulfazov.github.io/category/demo/</link>
     </image>
     
     <item>
       <title>Programming language</title>
-      <link>https://example.com/post/clanguage/</link>
+      <link>https://mabdulfazov.github.io/post/clanguage/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/clanguage/</guid>
+      <guid>https://mabdulfazov.github.io/post/clanguage/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.&lt;/p&gt;
@@ -123,9 +123,9 @@ An implementation of a programming language provides a way to write programs in 
     
     <item>
       <title>Git</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://mabdulfazov.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://mabdulfazov.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).&lt;/p&gt;
 &lt;p&gt;Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.Git is free and open-source software distributed under the GPL-2.0-only license.&lt;/p&gt;
@@ -180,9 +180,9 @@ An implementation of a programming language provides a way to write programs in 
     
     <item>
       <title>LaTeX</title>
-      <link>https://example.com/post/latex/</link>
+      <link>https://mabdulfazov.github.io/post/latex/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/latex/</guid>
+      <guid>https://mabdulfazov.github.io/post/latex/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt;  is a software system for document preparation. When writing, the writer uses plain text as opposed to the formatted text found in &amp;ldquo;What You See Is What You Get&amp;rdquo; word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.&lt;/p&gt;
@@ -214,9 +214,9 @@ An implementation of a programming language provides a way to write programs in 
     
     <item>
       <title>Portage (software)</title>
-      <link>https://example.com/post/portage/</link>
+      <link>https://mabdulfazov.github.io/post/portage/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/portage/</guid>
+      <guid>https://mabdulfazov.github.io/post/portage/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Accessing Portage&lt;/strong&gt;&lt;/p&gt;

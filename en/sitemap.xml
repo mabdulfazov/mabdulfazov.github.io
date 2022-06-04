@@ -4,104 +4,64 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://mabdulfazov.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://mabdulfazov.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://mabdulfazov.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://mabdulfazov.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://mabdulfazov.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="https://mabdulfazov.github.io/event/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-06-01T00:48:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/</loc><lastmod>2022-06-01T00:48:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://mabdulfazov.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://mabdulfazov.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/week232905/</loc><lastmod>2022-06-01T00:48:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/week232905/</loc><lastmod>2022-06-01T00:48:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week232905/"
+      href="https://mabdulfazov.github.io/ru/post/week232905/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week232905/"
+      href="https://mabdulfazov.github.io/post/week232905/"
     /></url>
   <url>
-    <loc>https://example.com/post/week162205/</loc><lastmod>2022-05-27T20:03:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/week162205/</loc><lastmod>2022-05-27T20:03:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week162205/"
+      href="https://mabdulfazov.github.io/ru/post/week162205/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week162205/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/demo/"
+      href="https://mabdulfazov.github.io/post/week162205/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -114,164 +74,204 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/tag/academic/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://mabdulfazov.github.io/ru/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://mabdulfazov.github.io/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/post/clanguage/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/categories/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/clanguage/"
+      href="https://mabdulfazov.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/clanguage/"
+      href="https://mabdulfazov.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/category/demo/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://mabdulfazov.github.io/ru/category/demo/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://mabdulfazov.github.io/category/demo/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/post/presentation/</loc><lastmod>2022-05-21T01:14:43+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/presentation/"
+      href="https://mabdulfazov.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/presentation/"
+      href="https://mabdulfazov.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/post/week091505/</loc><lastmod>2022-05-21T01:07:58+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/clanguage/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week091505/"
+      href="https://mabdulfazov.github.io/ru/post/clanguage/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week091505/"
+      href="https://mabdulfazov.github.io/post/clanguage/"
     /></url>
   <url>
-    <loc>https://example.com/post/week020805/</loc><lastmod>2022-05-14T18:39:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/week020805/"
+      href="https://mabdulfazov.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/week020805/"
+      href="https://mabdulfazov.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://mabdulfazov.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/getting-started/"
+      href="https://mabdulfazov.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/post/latex/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/presentation/</loc><lastmod>2022-05-21T01:14:43+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/latex/"
+      href="https://mabdulfazov.github.io/ru/post/presentation/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/latex/"
+      href="https://mabdulfazov.github.io/post/presentation/"
     /></url>
   <url>
-    <loc>https://example.com/post/portage/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/week091505/</loc><lastmod>2022-05-21T01:07:58+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/portage/"
+      href="https://mabdulfazov.github.io/ru/post/week091505/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/portage/"
+      href="https://mabdulfazov.github.io/post/week091505/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/week020805/</loc><lastmod>2022-05-14T18:39:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://mabdulfazov.github.io/ru/post/week020805/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://mabdulfazov.github.io/post/week020805/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://mabdulfazov.github.io/ru/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://mabdulfazov.github.io/post/getting-started/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/latex/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://mabdulfazov.github.io/ru/post/latex/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://mabdulfazov.github.io/post/latex/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/post/portage/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://mabdulfazov.github.io/ru/post/portage/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://mabdulfazov.github.io/post/portage/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://mabdulfazov.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://mabdulfazov.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://mabdulfazov.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://mabdulfazov.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://mabdulfazov.github.io/slides/example/"
+    /></url>
+  <url>
+    <loc>https://mabdulfazov.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mabdulfazov.github.io/ru/publication-type/1/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mabdulfazov.github.io/publication-type/1/"
+    /></url>
+  <url>
+    <loc>https://mabdulfazov.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mabdulfazov.github.io/ru/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mabdulfazov.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://mabdulfazov.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mabdulfazov.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mabdulfazov.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://mabdulfazov.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mabdulfazov.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mabdulfazov.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
